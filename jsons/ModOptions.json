@@ -1,0 +1,22 @@
+{
+	"isBaseRuleset": false,
+	"buildingsToRemove": [
+		"National Treasury" // Replaced by East India Company https://civilization.fandom.com/wiki/East_India_Company_(Civ5)
+	],
+	"nationsToRemove": [
+		"Jakarta",
+		"Lisbon",
+		"Marrakech",
+		"Warsaw",
+		"Dublin",
+		"Rio de Janeiro",
+		"Edinburgh",
+		"Helsinki"
+	],
+	"uniques": [
+		"Mod requires [Civ V - Gods & Kings]",
+		"Mod is incompatible with [Brave New World]",
+		"Mod is incompatible with [Brave New World Updated]",
+		"Cannot be used as permanent audiovisual mod"
+	]
+}
