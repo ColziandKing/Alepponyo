@@ -447,7 +447,9 @@
 		"name": "Mausoleum of Halicarnassus",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"culture": 1,
-		"isWonder": true,
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
 		"requiredTech": "Masonry",
 		"uniques": [
 			"Gain [100] [Gold] <upon gaining a [Great Person] unit> <(modified by game speed)>",
