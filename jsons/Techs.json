@@ -163,11 +163,11 @@
 
 	// Hidden Antiquity Sites
 	{
-		"columnNumber": 7,
+		"columnNumber": 6,
 		"era": "Medieval era",
-		"techCost": 1600,
-		"buildingCost": 300,
-		"wonderCost": 750,
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
 		"techs": [
 			{
 				// Used to allow use of "revealedBy" in Hidden Antiquity Site tile resources.
@@ -179,6 +179,21 @@
 					"Only available <after adopting [Exploration Complete]>"
 				],
 				"quote": "'Antiquities are history defaced, or some remnants of history which have casually escaped the shipwreck of time.' - Francis Bacon"
+			}
+		]
+	},
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Free Technology","Free Social Policy"]
 			}
 		]
 	},
