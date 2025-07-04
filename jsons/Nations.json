@@ -26,6 +26,7 @@
 		"uniqueText": "Receive a free Social Policy when you advance to the next era.",
 		"uniques": [
 			// Could just use (Free Social Policy <upon entering a new era>), but then you will gain a free policy on turn one, which is not BNW behaviour
+			"Free Social Policy <upon entering the [Ancient era]> <hidden from users>",
 			"Free Social Policy <upon entering the [Classical era]> <hidden from users>",
 			"Free Social Policy <upon entering the [Medieval era]> <hidden from users>",
 			"Free Social Policy <upon entering the [Renaissance era]> <hidden from users>",
