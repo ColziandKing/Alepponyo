@@ -1,4 +1,39 @@
 [
+  ///Choice Policy
+    {
+        "name": "Full Branch Policy",
+        "text": "A time period from the beginning of writing and recorded human history through late antiquity.",
+        "choices": [
+            {
+                "text": "Tradition first",
+                "uniques": [
+                    "Comment [Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse. -Winston Churchill-]",
+                    "Adopt [Tradition] <hidden from users>","Adopt [Aristocracy] <hidden from users>",
+			"Adopt [Oligarchy] <hidden from users>","Adopt [Legalism] <hidden from users>",
+			"Adopt [Monarchy] <hidden from users>","Adopt [Landed Elite] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Liberty and justice",
+                "uniques": [
+                    "Comment [Liberty, when it begins to take root, is a plant of rapid growth. Seek discipline and find your liberty. -George Washington & Frank Herbert-]",
+                    "Adopt [Liberty] <hidden from users>","Adopt [Republic] <hidden from users>",
+			"Adopt [Citizenship] <hidden from users>","Adopt [Collective Rule] <hidden from users>",
+			"Adopt [Representation] <hidden from users>","Adopt [Meritocracy] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Honor among men",
+                "uniques": [
+                    "Comment [I would prefer even to fail with honor than win by cheating. It is not titles that honor men, but men that honor titles. -Sophocles & Niccolo Machiavelli-]",
+                    "Adopt [Honor] <hidden from users>","Adopt [Military Tradition] <hidden from users>",
+			"Adopt [Discipline] <hidden from users>","Adopt [Warrior Code] <hidden from users>",
+			"Adopt [Military Caste] <hidden from users>","Adopt [Professional Army] <hidden from users>"
+                ]
+            }
+        ]
+    },
+	
 	// Spaceflight Pioneers - Great Engineer - Build Spaceship Part
 	{
 		"name": "Spaceship part",
