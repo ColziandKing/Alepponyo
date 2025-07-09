@@ -374,6 +374,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Panzer",
+		"unitType": "Armored",
+		"uniqueTo": "Germany",
+		"replaces": "Tank",
+		"movement": 6,
+		"strength": 80,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"
+		//German unique unit, stronger than Tank
+	},
+	{
 		"name": "Minuteman",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
