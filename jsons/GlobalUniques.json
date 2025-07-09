@@ -12,6 +12,7 @@
 		"[+34]% Gold from Great Merchant trade missions <during the [Atomic era]>",
 		"[+37]% Gold from Great Merchant trade missions <during the [Information era]>",
 		"[+38]% Gold from Great Merchant trade missions <during the [Modern era]>",
-		"[+40]% Gold from Great Merchant trade missions <starting from the [Future era]>"
+		"[+40]% Gold from Great Merchant trade missions <starting from the [Future era]>",
+        "Triggers a [Full Branch Policy] event <upon discovering [Agriculture] technology>",
 	]
 }
