@@ -42,6 +42,26 @@
             "[+1 Happiness] for each global city following this religion" // TODO: +1 Happiness for every 2 Cities following this religion
         ]
     },
+    {
+        "name": "Mithraea",
+        "type": "Founder",
+        "uniques": ["[+1]% [Gold] from every follower, up to [20]%"]
+    },
+    {
+        "name": "Salat",
+        "type": "Founder",
+        "uniques": ["[+4 Production] [in capital]"]
+    },
+    {
+        "name": "Zakat",
+        "type": "Founder",
+        "uniques": ["[+8 Gold] [in capital]"]
+    },
+    {
+        "name": "Dawah",
+        "type": "Founder",
+        "uniques": ["[+4 Culture] [in capital]"]
+    },
 
 	// Follower
     {
