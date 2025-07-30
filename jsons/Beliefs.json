@@ -65,8 +65,66 @@
             "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"
         ]
     },
+    {
+        "name": "Holy Alliance",
+        "type": "Enhancer",
+        "uniques": ["Comment [Gain 150 [Gold] and [Faith] upon declaring friendship or upon declaring a defensive pact (modified by game speed)]", "Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>"]
+    },
+    {
+        "name": "Inquisition Tribunals",
+        "type": "Enhancer",
+        "uniques": ["Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
+    },
+    {
+        "name": "Dharma",
+        "type": "Enhancer",
+        "uniques": ["[+10 Science] from every [Grand Temple]"]
+    },
+    {
+        "name": "Disciples",
+        "type": "Enhancer",
+        "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]"]
+    },
+    {
+        "name": "Hajj",
+        "type": "Enhancer",
+        "uniques": ["[+3 Food, +3 Production, +3 Culture] [in capital]"]
+    },
+    {
+        "name": "Karma",
+        "type": "Enhancer",
+        "uniques": ["[+8 Culture] [in holy cities]"]
+    },
+    {
+        "name": "Kotel",
+        "type": "Enhancer",
+        "uniques": ["[+6 Happiness] [in capital]"]
+    },
+    {
+        "name": "Jizya",
+        "type": "Enhancer",
+        "uniques": ["[+6 Production, +6 Gold] from every [Grand Temple]"]
+    },
 
     // Reformation Beliefs
+    {
+        "name": "Apostolic Palace",
+        "type": "Enhancer",
+        "uniques": [
+            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Grand Temple]",
+            "Only available <after adopting [Reformation]>"
+        ]
+    },
+    {
+        "name": "Houses of Worship",
+        "type": "Enhancer",
+        "uniques": [
+            "May buy [Art Hall] buildings for [150] [Faith] [in cities following this religion]",
+            "May buy [Writing Auditorium] buildings for [150] [Faith] [in cities following this religion]",
+            "May buy [Vocal Chamber] buildings for [150] [Faith] [in cities following this religion]",
+            "Only available <after adopting [Reformation]>"
+        ]
+    },
     {
         "name": "Charitable Missions",
         "type": "Enhancer",
