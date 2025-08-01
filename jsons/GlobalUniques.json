@@ -15,5 +15,9 @@
 		"[+40]% Gold from Great Merchant trade missions <starting from the [Future era]>",
         "Triggers a [First Policy] event <upon discovering [Agriculture] technology>",
 		"Free Technology <upon entering the [Ancient era]>",
+                    "[+50]% Production when constructing [Melee] units [in capital]",
+                    "[+50]% Production when constructing [Ranged] units [in capital]",
+                    "[+50]% Production when constructing [Melee Water] units [in capital]",
+                    "[+50]% Production when constructing [Ranged Water] units [in capital]",
 	]
 }
