@@ -141,6 +141,7 @@
 			"[-50]% maintenance costs <for [Sword] units>",
 			"[-50]% maintenance costs <for [Gunpowder] units>",
 			"[+25]% XP gained from combat <for [Military] units>",
+			"Adopt [United Front]",
 			"Preferred Ideology: Autocracy"
 		],
 		"spyNames": ["Gumede", "Jama", "Mageba", "Malanda", "Mnguni", "Ndaba", "Phunga", "Senzangakhona", "Balungile", "Samkelisiwe"],
@@ -285,6 +286,7 @@
 			"Double the normal number of Trade Routes available",
 			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
 			"May buy items in puppet cities",
+			"Adopt [City Militia]",
 			"Preferred Ideology: Freedom"
 		],
 		"spyNames": ["Gasparo", "Giosafat", "Ambrogio", "Niccolo", "Marino", "Cesare", "Francesco", "Giovanni", "Bertolome", "Filomena"],
@@ -420,6 +422,7 @@
 			"No damage penalty for wounded units <for [non-air] units>",
 			"[+1 Culture] from every [Fishing Boats]",
 			"[+2 Culture] from every [Atoll]",
+			"Adopt [Autarky]",
 			"Preferred Ideology: Autocracy"
 		],
 		"spyNames": ["Akaishi","Oki","Hattori","Morozumi","Momochi","Kawashima","Orin","Sakanishi","Kaede","Mochizuki"],
