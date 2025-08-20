@@ -594,6 +594,8 @@
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
+			"Can move immediately once bought",
+			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
         ],
         "hurryCostModifier": 20
@@ -609,6 +611,8 @@
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
+			"Can move immediately once bought",
+			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
@@ -625,6 +629,8 @@
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Requires at least [2] population",
+			"Can move immediately once bought",
+			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
 		],
         "hurryCostModifier": 20
