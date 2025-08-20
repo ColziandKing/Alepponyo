@@ -629,4 +629,38 @@
 		],
         "hurryCostModifier": 20
     },
+    {
+        "name": "Wayhome",
+        "uniqueTo": "Colziand",
+        "replaces": "Settler",
+        "unitType": "Scout",
+        "movement": 2,
+        "strength": 5,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+			"Unbuildable"
+        ],
+        "promotions": ["Ignore terrain cost"],
+        "hurryCostModifier": 20,
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Balayha",
+        "uniqueTo": "Tagalog",
+        "replaces": "Settler",
+        "unitType": "Scout",
+        "movement": 2,
+        "strength": 7,
+        "cost": 156,
+        "uniques": [
+            "Founds a new city",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [5] population",
+			"Unbuildable"
+        ],
+        "hurryCostModifier": 20,
+        "attackSound": "nonmetalhit"
+    },
 ]
