@@ -586,6 +586,19 @@
 		"movement": 2
 	},
     {
+        "name": "Settler",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population",
+			"Unbuildable"
+        ],
+        "hurryCostModifier": 20
+    },
+    {
         "name": "Pioneer",
         "uniqueTo": "America",
         "replaces": "Settler",
@@ -596,7 +609,7 @@
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
-            "Requires at least [2] population"
+			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
         "hurryCostModifier": 20,
@@ -611,8 +624,9 @@
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
-            "Requires at least [2] population"
-        ],
+            "Requires at least [2] population",
+			"Unbuildable"
+		],
         "hurryCostModifier": 20
     },
 ]
