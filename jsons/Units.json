@@ -588,6 +588,7 @@
     {
         "name": "Settler",
         "unitType": "Civilian",
+		"requiredTech": "Pottery",
         "movement": 2,
         "cost": 106,
         "uniques": [
@@ -595,6 +596,7 @@
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
 			"Can move immediately once bought",
+			"Only available <after adopting [Liberty]>",
 			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
         ],
@@ -605,6 +607,7 @@
         "uniqueTo": "America",
         "replaces": "Settler",
         "unitType": "Scout",
+		"requiredTech": "Pottery",
         "movement": 2,
         "strength": 5,
         "cost": 106,
@@ -613,6 +616,7 @@
             "Excess Food converted to Production when under construction",
 			"Can move immediately once bought",
 			"Can be purchased with [Gold] [in all cities]",
+			"Only available <after adopting [Liberty]>",
 			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
@@ -624,12 +628,14 @@
         "replaces": "Settler",
         "uniqueTo": "Mexico",
         "unitType": "Civilian",
+		"requiredTech": "Pottery",
         "movement": 2,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Requires at least [2] population",
 			"Can move immediately once bought",
+			"Only available <after adopting [Liberty]>",
 			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
 		],
@@ -640,11 +646,13 @@
         "uniqueTo": "Colziand",
         "replaces": "Settler",
         "unitType": "Scout",
+		"requiredTech": "Pottery",
         "movement": 2,
         "strength": 5,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
+			"Only available <after adopting [Liberty]>",
             "Excess Food converted to Production when under construction",
 			"Unbuildable"
         ],
@@ -657,6 +665,7 @@
         "uniqueTo": "Tagalog",
         "replaces": "Settler",
         "unitType": "Scout",
+		"requiredTech": "Pottery",
         "movement": 2,
         "strength": 7,
         "cost": 156,
@@ -664,6 +673,7 @@
             "Founds a new city",
             "Excess Food converted to Production when under construction",
             "Requires at least [5] population",
+			"Only available <after adopting [Liberty]>",
 			"Unbuildable"
         ],
         "hurryCostModifier": 20,
