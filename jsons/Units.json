@@ -596,7 +596,7 @@
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
 			"Can move immediately once bought",
-			"Only available <upon discovering [Pottery] technology>",
+			"Only available <upon discovering [Agriculture] technology>",
 			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
         ],
@@ -616,7 +616,7 @@
             "Excess Food converted to Production when under construction",
 			"Can move immediately once bought",
 			"Can be purchased with [Gold] [in all cities]",
-			"Only available <upon discovering [Pottery] technology>",
+			"Only available <upon discovering [Agriculture] technology>",
 			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
@@ -635,7 +635,7 @@
             "Founds a new city <by consuming this unit>",
             "Requires at least [2] population",
 			"Can move immediately once bought",
-			"Only available <upon discovering [Pottery] technology>",
+			"Only available <upon discovering [Agriculture] technology>",
 			"Can be purchased with [Gold] [in all cities]",
 			"Unbuildable"
 		],
@@ -652,7 +652,7 @@
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
-			"Only available <upon discovering [Pottery] technology>",
+			"Only available <upon discovering [Agriculture] technology>",
             "Excess Food converted to Production when under construction",
 			"Unbuildable"
         ],
@@ -673,7 +673,7 @@
             "Founds a new city",
             "Excess Food converted to Production when under construction",
             "Requires at least [5] population",
-			"Only available <upon discovering [Pottery] technology>",
+			"Only available <upon discovering [Agriculture] technology>",
 			"Unbuildable"
         ],
         "hurryCostModifier": 20,
