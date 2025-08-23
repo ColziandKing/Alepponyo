@@ -588,17 +588,13 @@
     {
         "name": "Settler",
         "unitType": "Civilian",
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
         "movement": 2,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-			"Can move immediately once bought",
-			"Only available <upon discovering [Agriculture] technology>",
-			"Can be purchased with [Gold] [in all cities]",
-			"Unbuildable"
         ],
         "hurryCostModifier": 20
     },
@@ -607,17 +603,13 @@
         "uniqueTo": "America",
         "replaces": "Settler",
         "unitType": "Scout",
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
         "movement": 2,
         "strength": 5,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
-			"Can move immediately once bought",
-			"Can be purchased with [Gold] [in all cities]",
-			"Only available <upon discovering [Agriculture] technology>",
-			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
         "hurryCostModifier": 20,
@@ -628,16 +620,12 @@
         "replaces": "Settler",
         "uniqueTo": "Mexico",
         "unitType": "Civilian",
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
         "movement": 2,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Requires at least [2] population",
-			"Can move immediately once bought",
-			"Only available <upon discovering [Agriculture] technology>",
-			"Can be purchased with [Gold] [in all cities]",
-			"Unbuildable"
 		],
         "hurryCostModifier": 20
     },
@@ -646,15 +634,12 @@
         "uniqueTo": "Colziand",
         "replaces": "Settler",
         "unitType": "Scout",
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
         "movement": 2,
         "strength": 5,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
-			"Only available <upon discovering [Agriculture] technology>",
-            "Excess Food converted to Production when under construction",
-			"Unbuildable"
         ],
         "promotions": ["Ignore terrain cost"],
         "hurryCostModifier": 20,
@@ -665,7 +650,7 @@
         "uniqueTo": "Tagalog",
         "replaces": "Settler",
         "unitType": "Scout",
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
         "movement": 2,
         "strength": 7,
         "cost": 156,
@@ -673,8 +658,6 @@
             "Founds a new city",
             "Excess Food converted to Production when under construction",
             "Requires at least [5] population",
-			"Only available <upon discovering [Agriculture] technology>",
-			"Unbuildable"
         ],
         "hurryCostModifier": 20,
         "attackSound": "nonmetalhit"
